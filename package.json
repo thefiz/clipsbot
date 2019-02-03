@@ -1,0 +1,23 @@
+{
+  "name": "clipsbot",
+  "version": "1.0.0",
+  "description": "Generate download links for clips within a timeframe on Twitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefiz/clipsbot.git"
+  },
+  "author": "Fiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thefiz/clipsbot/issues"
+  },
+  "homepage": "https://github.com/thefiz/clipsbot#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.88.0"
+  }
+}
